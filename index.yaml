@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  base-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-03T09:52:12.966957049Z"
+    description: A Helm chart for Kubernetes
+    digest: 6a8fa1b92de0abe7bf0d3d3db6e78f70179c57be8b783ff34ffaaa92ababb36e
+    name: base-service
+    type: application
+    urls:
+    - https://github.com/KaskadeFinance/kaskade-helm-chart/releases/download/base-service-0.1.4/base-service-0.1.4.tgz
+    version: 0.1.4
+generated: "2024-07-03T09:52:12.966966997Z"
